@@ -1,0 +1,42 @@
+[2025-01-20 06:01:08] local.ERROR: The C:\Users\ASUS\Documents\FAQDukcapil-main\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\bootstrap\\cache directory must be present and writable. at C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(131): Illuminate\\Foundation\\PackageManifest->write(Array)
+#1 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#4 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(316): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#6 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(473): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#7 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(195): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#10 {main}
+"} 
+[2025-01-20 06:03:56] local.ERROR: The C:\Users\ASUS\Documents\FAQDukcapil-main\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\bootstrap\\cache directory must be present and writable. at C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(131): Illuminate\\Foundation\\PackageManifest->write(Array)
+#1 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#4 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(316): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#6 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(473): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#7 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(195): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#10 {main}
+"} 
+[2025-01-20 07:06:08] local.ERROR: The C:\Users\ASUS\Documents\FAQDukcapil-main\bootstrap\cache directory must be present and writable. {"exception":"[object] (Exception(code: 0): The C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\bootstrap\\cache directory must be present and writable. at C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:178)
+[stacktrace]
+#0 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(131): Illuminate\\Foundation\\PackageManifest->write(Array)
+#1 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(107): Illuminate\\Foundation\\PackageManifest->build()
+#2 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(90): Illuminate\\Foundation\\PackageManifest->getManifest()
+#3 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(79): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#4 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#5 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(316): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#6 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(473): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#7 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(195): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#8 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1203): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 C:\\Users\\ASUS\\Documents\\FAQDukcapil-main\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#10 {main}
+"} 
